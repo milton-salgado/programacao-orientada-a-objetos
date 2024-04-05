@@ -1,0 +1,10 @@
+Exercício 2: Diferencie uma classe de um objeto.
+
+Resposta:
+
+Uma classe pode ser descrita como o molde de um objeto, e o objeto como um produto que segue
+as definições e informações contidas na classe.
+
+Em outras palavras, o objeto é chamado de instância de uma classe, ou sua "materialização",
+podendo assim objetos derivados de uma mesma classe possuírem informações diferentes,
+mas todas seguindo um único modelo definido dessa classe.

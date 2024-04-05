@@ -1,0 +1,15 @@
+Exercício 1: Explique as principais diferenças entre programação estruturada/modular e
+programação orientada a objetos.
+
+Resposta:
+
+Na programação estruturada/modular, o código é organizado em estruturas de controle,
+como sequências, decisões e repetições, com o objetivo de resolver um problema de maneira procedural,
+ou seja, seguindo um fluxo sequencial. Os dados são frequentemente organizados em estruturas de dados
+simples, como arrays e structs, e as funções são usadas para modularizar o código e evitar repetição.
+
+Por outro lado, na programação orientada a objetos (POO), o código é estruturado em torno de objetos
+que representam entidades do mundo real ou abstrações. Cada objeto possui atributos (dados) e
+métodos (comportamentos) associados a ele.
+
+Em resumo, enquanto a programação estruturada/modular tende a ser mais direta e linear, a programação orientada a objetos oferece uma abordagem mais flexível e modular, permitindo a modelagem de problemas complexos de maneira mais intuitiva e eficiente.

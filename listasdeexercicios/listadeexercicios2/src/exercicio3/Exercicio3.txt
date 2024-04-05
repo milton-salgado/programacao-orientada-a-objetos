@@ -1,0 +1,27 @@
+Exercício 3: Defina atributo de objeto, atributo de classe, método de objeto e método de classe.
+
+Resposta:
+
+Um atributo de objeto é um membro que possui sentido totalmente dependente de um objeto específico.
+Ou seja, precisa de um objeto para ser chamado, e portanto, é chamado a partir do nome da variável/
+instância do objeto.
+Além disso, podem possuir valores diferentes em objetos diferentes.
+
+Já um atributo de classe é um membro que faz sentido independentemente de objetos.
+Ou seja, não precisa de objetos para serem chamados, e portanto, é chamado a partir do
+próprio nome da classe.
+Além disso, possui um único valor para todos os objetos instanciados da classe que possui esse atributo,
+podendo ser modificado.
+
+Um método de objeto é uma função associada a um objeto específico.
+Esses métodos operam nos dados contidos no objeto em que são chamados e podem acessar e
+modificar os atributos desse objeto.
+Eles são invocados usando a notação de ponto, seguida pelo nome do método e parênteses
+contendo quaisquer argumentos necessários.
+
+Por outro lado, um método de classe é uma função associada à classe em si,
+em vez de objetos individuais.
+Eles são chamados usando o nome da classe, seguido por um ponto e o nome do método.
+Os métodos de classe geralmente são usados para realizar operações que não dependem do estado
+específico de um objeto, e eles podem acessar apenas atributos estáticos (de classe)
+ou outras propriedades estáticas.
