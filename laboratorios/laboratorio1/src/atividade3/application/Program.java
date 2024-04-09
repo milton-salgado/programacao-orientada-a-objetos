@@ -4,14 +4,6 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
-    /*
-        3ª atividade: Escreva um programa em Java que receba as duas notas de um aluno e
-        calcule se o aluno ficou aprovado, em prova final ou reprovado. Considere:
-        ● Aprovação: Média >= 7;
-        ● Prova final: 3 <= Média < 7;
-        ● Reprovação: Média < 3.
-    */
-
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);

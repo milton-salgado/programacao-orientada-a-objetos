@@ -4,11 +4,6 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
-    /*
-        2ª atividade: Escreva um programa em Java que peça ao usuário seu nome, idade e
-        altura e imprima na tela as três informações.
-    */
-
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);

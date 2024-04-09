@@ -4,11 +4,6 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
-    /*
-        4ª atividade: Escreva um programa em Java que leia um número inteiro N de
-        entrada e calcule recursivamente o seu fatorial.
-    */
-
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
