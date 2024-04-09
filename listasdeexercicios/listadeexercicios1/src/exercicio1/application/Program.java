@@ -5,11 +5,6 @@ import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
-        /*
-            Exercício 1: Faça um programa que calcule a média de notas de uma turma. As notas serão
-            inseridas até se encontrar uma nota -1, onde o programa retorna a média calculada.
-        */
-
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 

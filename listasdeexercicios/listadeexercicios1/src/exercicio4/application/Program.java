@@ -5,13 +5,6 @@ import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
-        /*
-            Exercício 4: Fazer um programa que crie uma calculadora iterativa. As operações suportadas
-            são: soma (+), subtração (-), multiplicação (*) e divisão (/). O usuário escolhe
-            primeiro a operação e depois enta com os valores necessários para a operação. O
-            usuário pode ficar escolhendo até digitar 's' (ou 'S') no menu de operações.
-        */
-
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
