@@ -1,0 +1,11 @@
+Exercício 1: O que é encapsulamento e qual a sua importância para POO?
+
+Resposta:
+
+Encapsulamento é o isolamento da lógica e das regras de negócio do programa, e portanto,
+define que a manipulação de dados deve obedecer as regras impostas pelas sua classe, e
+não em todo o programa.
+
+Logo, encapsulamento nada mais é que isolar o comportamento de uma
+determinada classe do resto do sistema, permitindo com que o programador
+não precise saber como funciona determinada classe, mas sim o que exatamente ela faz.

@@ -1,0 +1,22 @@
+Exercício 4: Qual o propósito da palavra-chave this? Exemplifique.
+
+Resposta:
+
+A palavra-chave this é uma referência ao objeto que está sendo manipulado no momento.
+
+É uma referência especial criada dentro de cada objeto apontando para si
+próprio que pode ser usada dentro dos métodos do objeto.
+
+Exemplo:
+
+public class Exemplo {
+    private int numero;
+
+    public Exemplo(int numero) {
+        this.numero = numero; // this faz referência ao atributo numero do próprio objeto da classe
+    }
+
+    public int getNumero() {
+        return this.numero; // this faz referência ao atributo numero do próprio objeto da classe
+    }
+}

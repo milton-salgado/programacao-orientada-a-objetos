@@ -1,0 +1,7 @@
+Exercício 3: O que são pacotes em Java?
+
+Resposta:
+
+Pacotes são diretórios que contêm classes Java.
+
+Ou seja, são conjuntos de classes localizadas na mesma estrutura hierárquica de diretórios.

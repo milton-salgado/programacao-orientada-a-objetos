@@ -1,0 +1,15 @@
+Exercício 2: Investigue: Qual a diferença entre o modificador de visibilidade public e a visibilidade
+padrão (default) sobre um atributo de classe? OBS: Lembre-se que atributo de classe
+(isto é, um atributo estático) e atributo de objeto são coisas distintas.
+
+Resposta:
+
+O modificador de visibilidade public permite que o atributo seja acessado por qualquer classe.
+
+O modificador de visibilidade padrão permite que o atributo seja acessado apenas por classes do mesmo pacote.
+
+Atribuindo essas lógicas para um atributo de classe:
+
+Com o modificador "public", o atributo de classe pode ser acessado de qualquer lugar no código onde a classe seja visível, independentemente do pacote em que se encontra.
+
+Com a visibilidade padrão (default), o atributo de classe só pode ser acessado por outras classes no mesmo pacote. Se você tentar acessá-lo de fora do pacote, ocorrerá um erro de compilação.
