@@ -1,0 +1,6 @@
+Exercício 1: Diferencie shallow copy (cópia rasa) de deep copy (cópia profunda).
+
+Resposta:
+
+A shallow copy é uma cópia rasa, ou seja, é uma cópia superficial do objeto original. A shallow copy cria um novo objeto, mas não copia os objetos internos do objeto original, apenas as referências para eles.
+Já a deep copy é uma cópia profunda, ou seja, é uma cópia completa do objeto original. A deep copy cria um novo objeto e copia todos os objetos internos do objeto original, criando novas instâncias deles.

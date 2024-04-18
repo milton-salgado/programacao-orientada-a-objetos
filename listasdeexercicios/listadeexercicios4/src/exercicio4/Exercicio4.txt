@@ -1,0 +1,8 @@
+Exercício 4: O que é o conceito de polimorfismo? Explique um cenário onde precisamos de
+polimorfismo.
+
+Resposta:
+
+Polimorfismo é a capacidade de um objeto poder ser referenciado de várias formas, ou seja, um objeto de uma classe filha pode ser referenciado como um objeto de uma classe pai.
+Isso é útil quando temos uma lista de objetos de classes diferentes, mas que possuem métodos com o mesmo nome.
+Assim, podemos chamar o método de cada objeto sem precisar saber a classe de cada um deles.

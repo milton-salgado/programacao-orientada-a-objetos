@@ -1,0 +1,22 @@
+Exercício 5: Dado o código abaixo:
+
+class Exercicio {
+        public String valor;
+        public static void main(String[] args){
+            Exercicio obj1 = new Exercicio();
+            Exercicio obj2 = new Exercicio();
+            obj1.valor = “Objeto”;
+            obj2.valor = “Objeto”;
+            System.out.println(“Os objetos são iguais?” + (obj1 == obj2));
+        }
+}
+
+O que será escrito na tela ao final da execução da função main? Caso imprima false,
+o que pode ser feito para retornar true?
+
+Resposta:
+
+Será impresso na tela: Os objetos são iguais?false
+Isso acontece pois o operador == compara as referências dos objetos, e não os valores.
+Para retornar true, basta alterar a linha 8 para: obj2.valor = obj1.valor;.
+Desse modo, os objetos terão o mesmo valor e a comparação retornará true.

@@ -1,0 +1,7 @@
+Exercício 2: O que é herança? Qual a vantagem de se usar esse mecanismo?
+
+Resposta:
+
+Herança é um mecanismo que permite que uma classe herde atributos e métodos de outra classe.
+A vantagem de se usar herança é que ela permite a reutilização de código, evitando a repetição de código e facilitando a manutenção do sistema.
+Além disso, a herança permite a criação de classes mais especializadas, que podem adicionar novos atributos e métodos ou modificar os existentes.

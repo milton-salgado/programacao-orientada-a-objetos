@@ -1,0 +1,8 @@
+Exercício 3: Qual a diferença entre herança simples e herança múltipla? Ambas são suportadas
+pelo Java?
+
+Resposta:
+
+Herança simples é quando uma classe herda de apenas uma outra classe.
+Já a herança múltipla é quando uma classe herda de mais de uma outra classe.
+O Java suporta apenas a herança simples, pois a herança múltipla pode causar problemas de ambiguidade.
