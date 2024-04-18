@@ -20,7 +20,7 @@ public class Funcionario {
     @Override
     public boolean equals(Object obj) {
         if (obj == this)
-            return true;
+            return false;
         if (!(obj instanceof Funcionario))
             return false;
 
