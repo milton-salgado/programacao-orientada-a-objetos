@@ -20,10 +20,7 @@ Um repositório para armazenar e compartilhar minhas atividades na disciplina de
 
 ## 📋 Descrição
 
-Este é um projeto de um sistema de criação e controle de contas bancárias.
-Esse projeto foi lançado como o desafio 01 do módulo 02 do curso de back-end do "Vai na Web". 
-Sua principal proposta era colocar os conhecimento de programação orientada a objetos com a linguagem Java. 
-O roteiro a ser seguido foi apresentado na plataforma das aulas.
+Este é um repositório para armazenar e compartilhar minhas atividades na disciplina de Programação Orientada a Objetos, ministrada pelo professor Ronald Chiesse de Souza, no curso de Ciência da Computação da UFRJ.
 
 ### 🚀 Funcionalidades
 
