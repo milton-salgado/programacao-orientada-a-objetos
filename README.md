@@ -20,7 +20,7 @@ Um repositório para armazenar e compartilhar minhas atividades na disciplina de
 
 ## 📋 Descrição
 
-Este é um repositório para armazenar e compartilhar minhas atividades na disciplina de Programação Orientada a Objetos, ministrada pelo professor Ronald Chiesse de Souza, no curso de Ciência da Computação da UFRJ.
+Este é um repositório para armazenar e compartilhar minhas atividades na disciplina de Programação Orientada a Objetos, ministrada pelo professor Ronald Chiesse de Souza, no curso de Ciência da Computação da UFRJ e tem como objetivo explorar conceitos de programação orientada a objetos em Java, desenvolver projetos de pequeno a médio porte, resolver exercícios e desafios práticos e explorar conceitos como encapsulamento, herança, polimorfismo e interfaces.
 
 ### 🚀 Funcionalidades
 
