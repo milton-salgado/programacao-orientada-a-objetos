@@ -1,0 +1,8 @@
+Exercício 3: Uma classe abstrata pode herdar de outra classe abstrata? Por que?
+
+Resposta:
+
+Sim, uma classe abstrata pode herdar de outra classe abstrata.
+Isso é possível porque a classe abstrata é uma classe que não pode ser instanciada, ou seja, não pode ser criado um objeto a partir dela.
+Dessa forma, a classe abstrata pode ser utilizada para definir métodos abstratos que devem ser implementados pelas classes filhas.
+Portanto, uma classe abstrata pode herdar de outra classe abstrata, pois ela pode implementar os métodos abstratos da classe pai e definir novos métodos abstratos que devem ser implementados pelas classes filhas.

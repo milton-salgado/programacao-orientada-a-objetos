@@ -1,0 +1,6 @@
+Exercício 2: O que são classes abstratas e qual o seu uso mais comum?
+
+Resposta:
+
+Classes abstratas são classes que não podem ser instanciadas, ou seja, não podem ser utilizadas para criar objetos.
+Elas são utilizadas como base para outras classes, que podem ser instanciadas. O uso mais comum de classes abstratas é para definir métodos que devem ser implementados pelas classes filhas.

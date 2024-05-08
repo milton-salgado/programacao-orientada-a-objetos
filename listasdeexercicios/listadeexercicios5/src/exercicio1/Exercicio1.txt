@@ -1,0 +1,18 @@
+Exercício 1: Diferencie herança, agregação e composição.
+
+Resposta:
+
+Herança: A herança é um conceito de orientação a objetos que permite a criação de uma nova classe a partir de uma classe já existente.
+A nova classe, chamada de subclasse, herda os atributos e métodos da classe já existente, chamada de superclasse.
+A herança é uma forma de reutilização de código, pois evita a repetição de atributos e métodos em várias classes.
+A herança é representada por uma linha contínua com uma seta vazada que aponta para a superclasse.
+
+Agregação: A agregação é um tipo de associação que indica que uma classe é composta por uma ou mais instâncias de outra classe.
+A agregação é uma relação do tipo "tem-um", pois uma classe "tem" instâncias de outra classe.
+Se a classe composta for destruída, a classe que a contém ainda existirá.
+A agregação é representada por uma linha contínua com um losango vazado que aponta para a classe composta.
+
+Composição: A composição é um tipo de associação que indica que uma classe é composta por uma ou mais instâncias de outra classe.
+A composição é uma relação do tipo "tem-um", pois uma classe "tem" instâncias de outra classe.
+Se a classe composta for destruída, a classe que a contém também será destruída.
+A composição é representada por uma linha contínua com um losango preenchido que aponta para a classe composta.
