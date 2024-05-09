@@ -1,0 +1,13 @@
+Exercício 1: Diferencie classe abstrata e interface.
+
+Resposta:
+
+Classe abstrata: É uma classe que não pode ser instanciada, ou seja, não pode ser criado um objeto a partir dela.
+Ela é utilizada para definir métodos que devem ser implementados pelas classes filhas.
+Uma classe abstrata pode conter métodos abstratos e métodos concretos.
+Uma classe abstrata pode herdar de outra classe abstrata ou de uma classe concreta.
+Interface: É como um tipo de classe abstrata que contém apenas métodos abstratos, porém não é uma classe.
+Uma interface não pode conter métodos concretos.
+Uma classe que implementa uma interface deve implementar todos os métodos abstratos da interface.
+Uma classe pode implementar várias interfaces.
+Uma interface não pode herdar de uma classe, mas pode herdar de outra interface.

@@ -1,0 +1,7 @@
+Exercício 4: Explique o padrão Singleton com suas palavras e destaque o que é preciso fazer na classe para ela se tornar um Singleton.
+
+Resposta:
+
+O padrão Singleton é um padrão de projeto que garante que uma classe tenha apenas uma instância e forneça um ponto de acesso global para essa instância.
+Para que uma classe se torne um Singleton, é necessário que ela tenha um construtor privado, um método estático que retorne a instância da classe e um atributo estático que armazene a instância da classe.
+Além disso, é importante garantir que a instância seja criada apenas uma vez e que seja acessível de forma segura e concorrente.

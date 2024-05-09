@@ -1,0 +1,6 @@
+Exercício 3: O que são padrões de projeto? Qual sua importância em POO?
+
+Resposta:
+
+Padrões de projeto são soluções para problemas comuns que ocorrem no desenvolvimento de software orientado a objetos.
+Eles são soluções que foram testadas e aprovadas por muitos desenvolvedores ao longo do tempo, e que podem ser aplicadas em diversos contextos.

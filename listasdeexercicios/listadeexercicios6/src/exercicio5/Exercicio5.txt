@@ -1,0 +1,7 @@
+Exercício 5: Explique o padrão de projeto Factory destacando a principal vantagem de se usar
+esse padrão e os cuidados que o programador precisa ter.
+
+Resposta:
+
+O padrão de projeto Factory é um padrão de projeto de criação que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
+A principal vantagem de se usar esse padrão é que ele permite a criação de objetos sem especificar a classe exata do objeto que será criado. Isso torna o código mais flexível e fácil de manter, pois permite que o programador adicione novos tipos de objetos sem precisar modificar o código existente.

@@ -1,0 +1,7 @@
+Exercício 2: Para que servem os tipos genéricos no Java?
+
+Resposta:
+
+Os tipos genéricos servem para que possamos criar classes, interfaces e métodos que possam ser utilizados com diferentes tipos de dados, sem a necessidade de reescrever o código para cada tipo de dado.
+Isso permite que o código seja mais reutilizável e mais seguro, pois o compilador consegue detectar erros de tipo em tempo de compilação.
+Além disso, os tipos genéricos permitem que o código seja mais legível e mais fácil de entender, pois o programador pode especificar o tipo de dado que será utilizado em cada instância da classe, interface ou método genérico.7
